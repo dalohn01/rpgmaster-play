@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Placeholder portrait (RPGmaster): Howler, a cultist in a wolf pelt. Replace with painted art. -->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="70%"><stop offset="0" stop-color="#3a3f4f"/><stop offset="1" stop-color="#0c0e14"/></radialGradient>
+    <linearGradient id="pelt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a7adb4"/><stop offset="1" stop-color="#4c5259"/></linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#bg)"/>
+  <path d="M28 256 C34 196 70 172 128 172 C186 172 222 196 228 256 Z" fill="#5a6068" stroke="#0a0705" stroke-width="6"/>
+  <path d="M60 248 L80 196 L96 240 L110 192 L128 244 L146 192 L160 240 L176 196 L196 248" fill="none" stroke="#2c3036" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M84 150 C84 110 104 96 128 96 C152 96 172 110 172 150 C166 180 150 192 128 192 C106 192 90 180 84 150 Z" fill="#b48a68" stroke="#0a0705" stroke-width="5"/>
+  <path d="M98 146 L118 140 M158 146 L138 140" stroke="#0a0705" stroke-width="5" stroke-linecap="round"/>
+  <path d="M100 160 L118 156 M156 160 L138 156" stroke="#8a1f1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M110 176 Q128 168 146 176" fill="none" stroke="#0a0705" stroke-width="5" stroke-linecap="round"/>
+  <path d="M52 132 C48 90 66 60 84 44 L96 18 L110 50 C118 48 138 48 146 50 L160 18 L172 44 C190 60 208 90 204 132 C188 112 170 104 128 104 C86 104 68 112 52 132 Z" fill="url(#pelt)" stroke="#0a0705" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M100 74 L116 82 M156 74 L140 82" stroke="#0a0705" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="106" cy="80" r="6" fill="#f7c063"/><circle cx="150" cy="80" r="6" fill="#f7c063"/>
+  <path d="M112 104 L120 118 L128 104 L136 118 L144 104" fill="#f2ead4" stroke="#0a0705" stroke-width="3" stroke-linejoin="round"/>
+</svg>
